@@ -1,4 +1,4 @@
-## Olá sou o André Buriche 🙃, criadora de conteúdo de programação e tecnologia!
+## Olá sou o André Buriche 🙃, Em evolução sempre em educação, programação e tecnologia!
 
 <div align="center">
   <a href="https://github.com/andreburiche">
